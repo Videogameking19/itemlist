@@ -1,1 +1,320 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.2"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": "1628211313",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.5.5.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "5.0.3.2"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Combat 3",
+    "steamId": "2038409475",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - Factions (Continued)"
+  },
+  {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering"
+  },
+  {
+    "author": "Sarg",
+    "name": "Genetic Rim",
+    "steamId": "1113137502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Luizi",
+    "name": "Vanilla Textures Expanded - Genetic Rim"
+  },
+  {
+    "author": "Sarg",
+    "name": "GeneticRim Cosmic Horrors Patch"
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem"
+  },
+  {
+    "author": "GassyTaco",
+    "name": "Prisoner Harvesting"
+  },
+  {
+    "author": "Fluffy",
+    "name": "The Birds and the Bees",
+    "steamId": "751049133",
+    "version": "3.8.58"
+  },
+  {
+    "author": "KongMD",
+    "name": "Questionable Ethics Enhanced",
+    "steamId": "1787359789",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Avius",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "0.10.7735.34310"
+  },
+  {
+    "author": "jecrell",
+    "name": "H.P. Lovecraft Storyteller (Continued)"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Callouts",
+    "steamId": "2362736503",
+    "version": "1.2.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2375193973",
+    "version": "1.0.0"
+  },
+  {
+    "author": "zyxabacab",
+    "name": "No Sympathy for Prisoners"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul (Continued)"
+  },
+  {
+    "author": "Avius",
+    "name": "Locks"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "notfood",
+    "name": "ResearchPal",
+    "steamId": "946390822",
+    "version": "1.1.3.0"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Realistic Darkness"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.1.2.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons"
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Categorized Crafting Bills",
+    "steamId": "2403595130",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - The Force (Continued)",
+    "steamId": "2263227169",
+    "version": "1.0.3.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cults (Continued)",
+    "steamId": "2249174783",
+    "version": "1.0.18.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors (Continued)",
+    "steamId": "2246088032",
+    "version": "1.0.8.0"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Hairstyles - Redux"
+  },
+  {
+    "author": "Erin and AveryTheKitty",
+    "name": "Erin's Japanese Furniture"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Mister Meeseeks",
+    "steamId": "2329172147",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ColdToad",
+    "name": "Centralized Climate Control (Continued)"
+  },
+  {
+    "author": "Kitsune, Drunk Moose",
+    "name": "Kit's Power Protein"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.2411"
+  },
+  {
+    "author": "Atlas",
+    "name": "Medicines+",
+    "steamId": "2347448943",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mic, Iron Wolf, The Pheonix",
+    "name": "Pawnmorpher",
+    "steamId": "1786466855",
+    "version": "1.10.1"
+  },
+  {
+    "author": "Helixien, Taranchuk, Saakra, OskarPotocki",
+    "name": "Ultratech: Altered Carbon",
+    "steamId": "2196278117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[CP] Prisoner Outfit"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - Fully Functional Lightsabers (Continued)",
+    "steamId": "2263225380",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "AveryTheKitty, Erin, and Ravenholme",
+    "name": "Xenohumans - Anthromorphs"
+  },
+  {
+    "author": "Xen",
+    "name": "Twi'lek Race (Continued)"
+  },
+  {
+    "author": "Xen",
+    "name": "Zabrak Race (Continued)"
+  }
+]
