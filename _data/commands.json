@@ -578,22 +578,5 @@
     "usage": "!unstickme",
     "userLevel": "Anyone",
     "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "usage": "!",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
-    "shortcut": false
   }
 ]
