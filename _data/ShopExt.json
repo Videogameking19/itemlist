@@ -2357,7 +2357,7 @@
     {
       "price": 1,
       "defName": "MeeseeksRace",
-      "enabled": true,
+      "enabled": false,
       "name": "Meeseeks",
       "data": {
         "customName": false
@@ -2366,7 +2366,7 @@
     {
       "price": 1,
       "defName": "ReanimatedCorpse",
-      "enabled": true,
+      "enabled": false,
       "name": "reanimated corpse",
       "data": {
         "customName": false
