@@ -2301,7 +2301,7 @@
   ],
   "races": [
     {
-      "price": 3333,
+      "price": 100,
       "defName": "ATK_Caninemorph",
       "enabled": true,
       "name": "caninemorph",
@@ -2310,7 +2310,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 100,
       "defName": "ATK_Cervinemorph",
       "enabled": true,
       "name": "cervinemorph",
@@ -2319,7 +2319,7 @@
       }
     },
     {
-      "price": 3750,
+      "price": 100,
       "defName": "ATK_Dragomorph",
       "enabled": true,
       "name": "dragomorph",
@@ -2328,7 +2328,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 100,
       "defName": "ATK_Felinemorph",
       "enabled": true,
       "name": "felinemorph",
@@ -2337,7 +2337,7 @@
       }
     },
     {
-      "price": 2917,
+      "price": 100,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -2346,7 +2346,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 100,
       "defName": "ATK_Lagomorph",
       "enabled": true,
       "name": "lagomorph",
@@ -2373,7 +2373,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 100,
       "defName": "Alien_Twilek",
       "enabled": true,
       "name": "Twilek",
@@ -2382,7 +2382,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 100,
       "defName": "Alien_Zabrak",
       "enabled": true,
       "name": "Zabrak",
