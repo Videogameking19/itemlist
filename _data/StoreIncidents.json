@@ -73,7 +73,7 @@
 	{
 		"abr": "solarflare",
 		"price": 500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shortcircuit",
@@ -342,7 +342,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -377,12 +377,12 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
