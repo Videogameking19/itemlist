@@ -21,7 +21,7 @@
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
-    "version": "1.1.2.2"
+    "version": "1.1.2.3"
   },
   {
     "author": "hodlhodl",
@@ -52,6 +52,12 @@
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.2.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.1.8"
   },
   {
     "author": "erdelf",
@@ -210,6 +216,12 @@
     "name": "[WD] Realistic Darkness"
   },
   {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7794.34553"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
@@ -241,7 +253,7 @@
     "author": "Jecrell",
     "name": "Call of Cthulhu - Cults (Continued)",
     "steamId": "2249174783",
-    "version": "1.0.18.0"
+    "version": "1.0.19.0"
   },
   {
     "author": "Jecrell",
@@ -296,6 +308,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
     "author": "Mic, Iron Wolf, The Pheonix",
     "name": "Pawnmorpher",
     "steamId": "1786466855",
@@ -303,7 +321,7 @@
   },
   {
     "author": "Helixien, Taranchuk, Saakra, OskarPotocki",
-    "name": "Ultratech: Altered Carbon",
+    "name": "[HLX] Ultratech: Altered Carbon",
     "steamId": "2196278117",
     "version": "1.0.0.0"
   },
