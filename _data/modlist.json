@@ -52,16 +52,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Daemon976",
-    "name": "Nals Facial Animation for HAR"
-  },
-  {
     "author": "Oskar Potocki, Smash Phil",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
@@ -166,8 +156,20 @@
     "version": "1.0.7789.9895"
   },
   {
-    "author": "Ykara",
-    "name": "Expanded Prosthetics and Organ Engineering"
+    "author": "JBloodthorn",
+    "name": "No Lazy Doctors"
+  },
+  {
+    "author": "Victorique, Aurani, Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked"
+  },
+  {
+    "author": "Victorique, Aurani, Tarojun",
+    "name": "EPOE-Forked: Royalty DLC expansion"
+  },
+  {
+    "author": "Tarojun",
+    "name": "EPOE-Forked: Allow direct crafting"
   },
   {
     "author": "Smuffle",
@@ -410,6 +412,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "StatistNo1",
+    "name": "EvolvedOrgansRedux",
+    "steamId": "2424381146",
+    "version": "2.0.1"
+  },
+  {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry 1.1",
     "steamId": "2007576583",
@@ -426,10 +434,6 @@
     "name": "[KV] RimFridge",
     "steamId": "1180721235",
     "version": "1.2.1.0"
-  },
-  {
-    "author": "Mag_Agent",
-    "name": "EvolvedOrgansRedux"
   },
   {
     "author": "NotFood",
@@ -566,14 +570,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AveryTheKitty, Erin, and Ravenholme",
-    "name": "Xenohumans - Anthromorphs"
-  },
-  {
-    "author": "Quill",
-    "name": "Xenohumans - Anthromorphs - Prepare Carefully Patch"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Animals Expanded — Cats and Dogs"
   },
@@ -608,5 +604,41 @@
   {
     "author": "Marley The Lucario",
     "name": "Protogen! Marley Race Mod"
+  },
+  {
+    "author": "AveryTheKitty, Erin, and Ravenholme",
+    "name": "Xenohumans - Anthromorphs"
+  },
+  {
+    "author": "Quill",
+    "name": "Xenohumans - Anthromorphs - Prepare Carefully Patch"
+  },
+  {
+    "author": "Waether",
+    "name": "Anthropomorph - Combat Extended Patch"
+  },
+  {
+    "author": "Tarojun",
+    "name": "EPOE-Forked: Alien expansion + patcher"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Daemon976",
+    "name": "Nals Facial Animation for HAR"
+  },
+  {
+    "author": "AhnDemi",
+    "name": "Race sleep face addon"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "1.0.0"
   }
 ]
