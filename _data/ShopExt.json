@@ -9023,7 +9023,7 @@
       "price": 100,
       "defName": "Alien_ProtogenNME",
       "enabled": false,
-      "name": "protogen-2",
+      "name": "protogen-nme",
       "data": {
         "customName": true
       }
@@ -9060,6 +9060,15 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 100,
+      "defName": "GaramRace",
+      "enabled": true,
+      "name": "Garam",
       "data": {
         "customName": false
       }
@@ -9132,15 +9141,6 @@
       "defName": "Braixen",
       "enabled": true,
       "name": "Braixen",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2917,
-      "defName": "GaramRace",
-      "enabled": true,
-      "name": "Garam",
       "data": {
         "customName": false
       }
